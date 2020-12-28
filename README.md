@@ -9,3 +9,4 @@ test6 added
 
 test 4 added
 
+dodata 7ica prvi put
