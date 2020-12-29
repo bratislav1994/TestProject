@@ -20,3 +20,5 @@ drugi put
 35
 a
 b
+novi1
+novi 2
