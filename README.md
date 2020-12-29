@@ -21,3 +21,4 @@ drugi put
 a
 b
 novi1
+novi 2
