@@ -20,3 +20,5 @@ drugi put
 35
 apatka
 b
+novi1
+novi 2
